@@ -2,11 +2,11 @@
 //  Your web app's Firebase configuration
 //----------------------------------------
 var firebaseConfig = {
-    apiKey: ,
-    authDomain: ,
-    projectId: ,
-    storageBucket: ,
-    messagingSenderId: ,
+    apiKey:,
+    authDomain:,
+    projectId:,
+    storageBucket:,
+    messagingSenderId:,
     appId:
 };
 
